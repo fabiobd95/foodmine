@@ -61,3 +61,13 @@
         2. Add ts
         3. Add HTML
         4. Add CSS
+
+8. Not Found!
+    1. Generate Component
+        1. Add ts
+        2. Add HTML
+        3. Add CSS
+    2. Add to Pages
+        1. Home Page
+        2. Food Page
+        3. Cart Page
