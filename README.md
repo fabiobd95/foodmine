@@ -29,7 +29,7 @@
         3. Add HTML
         4. Add CSS
 
-7. Tags Bar
+5. Tags Bar
     1. Create Tag model
     2. Add sample tags to data.ts
     3. Food service
@@ -46,6 +46,17 @@
 6. Food Page
     1. Add method to food service
     2. Generate Food Page component
+        1. Add Route
+        2. Add ts
+        3. Add HTML
+        4. Add CSS
+
+7. Cart Page
+    1. Create CartItem Model
+    2. Create Cart Model
+    3. Generate Cart service
+    4. Add to Cart Button in Food Page
+    5. Generate Cart page component
         1. Add Route
         2. Add ts
         3. Add HTML
